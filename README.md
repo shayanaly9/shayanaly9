@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 Currently working on **Full Stack & Backend Projects**<br> 💡 Strong focus on **clean architecture & performance**<br> ⚙️ Experienced with **REST APIs, Databases, Authentication**<br> 🚀 I love building projects that feel like real products<br> 📈 Always improving & learning new technologies<br>
+ 🔭 Currently working on **Full Stack & Backend Projects**<br> 💡 Strong focus on **clean architecture & performance**<br> ⚙️ Experienced with **FASTAPIs, Databases, Authentication**<br> 🚀 I love building projects that feel like real products<br> 📈 Always improving & learning new technologies<br>
 
 
 ## 🌐 Socials:
