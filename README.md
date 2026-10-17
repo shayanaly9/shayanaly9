@@ -1,6 +1,6 @@
 # Hi, I'm Shayan Ali 👋
 
-### Full Stack & Backend Developer | FastAPI | Next.js | TypeScript
+### Full Stack & Backend Developer | FastAPI | Next.js | TypeScript | ElysiaJS
 
 Final-year Computer Science student at SZABIST Islamabad who builds and ships full-stack products alongside coursework and client work. I focus on clean architecture, performance, and backends that hold up in production.
 
