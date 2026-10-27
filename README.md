@@ -29,4 +29,4 @@ Website: [shayanali.dev](https://shayanali.dev)
 
 I'm open to backend and full-stack roles, internships, freelance sites, and projects with other founders.
 
-[LinkedIn](https://www.linkedin.com/in/shayan-ali-666b0625b/) | [X](https://x.com/ShayanZagar) | [Email](mailto:hi@shayanali.dev)
+[LinkedIn](https://www.linkedin.com/in/shayanaly/) | [X](https://x.com/ShayanZagar) | [Email](mailto:hi@shayanali.dev)
