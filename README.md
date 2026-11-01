@@ -7,7 +7,6 @@ Website: [shayanali.dev](https://shayanali.dev)
 ## Projects
 
 - [HostSage](https://hostsage.dev): a site for developers who need to pick, compare, and deploy on VPS hosting and cloud infrastructure. I run the benchmarks, write the guides, and handle the code and SEO myself.
-- [ZiviTV](https://zivitv.tech): a Next.js site for finding movies and TV shows.
 - [Convertle](https://convertle.help): a free file converter that runs entirely in your browser using WebAssembly. It converts images, video, audio, and documents on your device. Nothing gets uploaded.
 
 ## What I work with
